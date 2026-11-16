@@ -1,0 +1,13 @@
+{
+  "name": "rjn-web-builder",
+  "version": "1.0.0",
+  "description": "Dedicated Railway Production Service for Autonomous Website Generation, Live Compilation & Instant Cloud Previews by RJN AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
